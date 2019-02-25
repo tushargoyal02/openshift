@@ -1,4 +1,4 @@
 <?php
-echo "All the best for exam"; 
+echo "All the best for exam ......"; 
 echo "\n\n";
 ?>
