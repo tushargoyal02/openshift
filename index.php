@@ -1,4 +1,4 @@
 <?php
-echo "welcome ......"; 
+echo "Welcome To Openshift......"; 
 echo "\n\n";
 ?>
