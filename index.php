@@ -1,4 +1,4 @@
 <?php
-echo "Welcome To Adhoc  Openshift......"; 
+echo "Welcome To MDhack Website......"; 
 echo "\n\n";
 ?>
