@@ -1,4 +1,4 @@
 <?php
-echo "Welcome To MDhack Website......"; 
+echo "Welcome To MDhack Modi  Website......"; 
 echo "\n\n";
 ?>
